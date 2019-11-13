@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/faqs/en/posts/correu_spam/</loc>
+  </url>
+  
+  <url>
+    <loc>/faqs/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/faqs/ca/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/faqs/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/faqs/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/faqs/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/faqs/ca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/faqs/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/faqs/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/faqs/en/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>/faqs/en/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>/faqs/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/faqs/ca/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/faqs/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/faqs/en/tags/"
+                />
+  </url>
+  
+</urlset>
