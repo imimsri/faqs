@@ -6,6 +6,7 @@
 {{ end }}
 {{ define "main" }}
 <section>
+  <div class="hero" >
   <div class="content" >
     <form action="{{ "search" | absURL }}">
       <input id="search-query" name="s"/>
@@ -13,6 +14,7 @@
     <div id="search-results">
      <h3>Matching pages</h3>
     </div>
+  </div>
   </div>
 </section>
 <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
