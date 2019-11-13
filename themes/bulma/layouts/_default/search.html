@@ -7,8 +7,9 @@
 {{ define "main" }}
 <section>
   <div class="container" >
+	  <h1>IMIM FAQs search</h1>
     <form action="{{ "search" | absURL }}">
-      <input id="search-query" name="s"/>
+      <input class="input" id="search-query" name="s"/>
     </form>
     <div id="search-results">
      <h3>Matching pages</h3>
