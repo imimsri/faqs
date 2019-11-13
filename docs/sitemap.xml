@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/faqs/</loc>
+    <loc>/faqs/categories/</loc>
   </url>
   
   <url>
-    <loc>/faqs/categories/</loc>
+    <loc>/faqs/</loc>
   </url>
   
   <url>
