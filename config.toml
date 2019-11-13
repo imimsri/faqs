@@ -4,7 +4,7 @@ title = "IMIM-SRI FAQs" # Homepage title and page title suffix
 paginate = 5 # Number of posts to show before paginating
 theme = "bulma" # to use as default theme
 publishDir = "docs"
-DefaultContentLanguageInSubdir = true
+#DefaultContentLanguageInSubdir = true
 DefaultContentLanguage = "en"
 
 enableRobotsTXT = true # Suggested, it generates a robots.txt
@@ -14,12 +14,12 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params]
   theme_variant = "" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
-  description = "Tota la informació sobre els recursos informàtics de l'IMIM<br/>All about IMIM's IT resources" # Suggested, controls default description meta and landing page
+  description = "Toda la información sobre los recursos informáticos del IMIM" # Suggested, controls default description meta and landing page
   powered_by = "love" # Optional, controls name display on footer
   hide_author = false # Optional, set true to hide author name on posts
   images = [] # Suggested, controls default OpenGraph images controls author name display on meta tag
-  github  = "github" # Optional, to display link to github account in menu bar
-  twitter = "twitter" # Optional, to display link to twitter account in menu bar
+  github  = "imimsri" # Optional, to display link to github account in menu bar
+  twitter = "imimsri" # Optional, to display link to twitter account in menu bar
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -43,6 +43,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
     title = "IMIM-SRI FAQs" # Homepage title and page title suffix
     weight = 2
     [languages.es.params]
+      description = "Toda la información sobre los recursos informáticos del IMIM" # Suggested, controls default description meta and landing page
       linkedin = "https://linkedin.com/fr/whoever"
       [languages.es.params.navigation]
         help = "Aide"

@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/faqs/en/posts/correu_spam/</loc>
+    <loc>/faqs/posts/correu_spam/</loc>
   </url>
   
   <url>
-    <loc>/faqs/en/categories/</loc>
+    <loc>/faqs/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
@@ -21,12 +21,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/en/categories/"
+                href="/faqs/categories/"
                 />
   </url>
   
   <url>
-    <loc>/faqs/en/</loc>
+    <loc>/faqs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
@@ -40,21 +40,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/en/"
+                href="/faqs/"
                 />
   </url>
   
   <url>
-    <loc>/faqs/en/posts/</loc>
+    <loc>/faqs/posts/</loc>
   </url>
   
   <url>
-    <loc>/faqs/en/search/</loc>
+    <loc>/faqs/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>/faqs/en/tags/</loc>
+    <loc>/faqs/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
@@ -68,7 +68,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/en/tags/"
+                href="/faqs/tags/"
                 />
   </url>
   

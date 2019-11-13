@@ -22,6 +22,12 @@
               {{ .Site.Params.description}}
             </h2>
             <br>
+    	<form action="{{ "search" | relURL }}">
+      		<input class="input" id="search-query" name="s"/>
+    	</form>
+	<p>
+
+	</p>
 	    <!--
             <div class="column  is-offset-1">
             <div class="field is-grouped has-addons-centered">

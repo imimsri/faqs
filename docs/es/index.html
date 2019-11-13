@@ -20,7 +20,7 @@
 
  
     <meta property="og:title" content="IMIM-SRI FAQs" />
-<meta property="og:description" content="Tota la informació sobre els recursos informàtics de l&#39;IMIM&lt;br/&gt;All about IMIM&#39;s IT resources" />
+<meta property="og:description" content="Toda la información sobre los recursos informáticos del IMIM" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="/faqs/es/" />
 <meta property="og:site_name" content="IMIM-SRI FAQs" />
@@ -52,32 +52,37 @@
 
 
 <body>
-    <header> <nav class="navbar is-transparent">
+    <header> <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="/faqs">
 	    <img src="/faqs/img/imim.jpg" alt="IMIM logo">
     </a>
-    <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
+    <a class="navbar-burger burger" role="button" data-target="navbarExampleTransparentExample" aria-label="menu" aria-expanded="false">
+      <span  aria-hidden="true"></span>
+      <span  aria-hidden="true"></span>
+      <span  aria-hidden="true"></span>
+    </a>
   </div>
   
-  <div class="navbar-menu">
+  <div class="navbar-menu" id="navbarExampleTransparentExample">
     <div class="navbar-start">
-      
-      <a class="navbar-item" target="blank" href="https://github.com/github">
+      <a class="navbar-item" target="blank" href="/faqs">
         <span class="icon">
-          <i class="fas fa-github"></i>
+		<img src="/faqs/svg/home.svg" alt="faqs"/>
+        </span>
+      </a>
+      
+      <a class="navbar-item" target="blank" href="https://github.com/imimsri">
+        <span class="icon">
+		<img src="/faqs/svg/logo-github.svg" alt="github"/>
         </span>
       </a>
       
 
       
-      <a class="navbar-item" target="blank" href="https://twitter.com/twitter">
+      <a class="navbar-item" target="blank" href="https://twitter.com/imimsri">
         <span class="icon">
-          <i class="fas fa-twitter"></i>
+		<img src="/faqs/svg/logo-twitter.svg" alt="twitter"/>
         </span>
       </a>
       
@@ -120,9 +125,15 @@
              IMIM-SRI FAQs
             </h1>
             <h2 class="subtitle is-four-fifths">
-              Tota la informació sobre els recursos informàtics de l&#39;IMIM&lt;br/&gt;All about IMIM&#39;s IT resources
+              Toda la información sobre los recursos informáticos del IMIM
             </h2>
             <br>
+    	<form action="/faqs/search">
+      		<input class="input" id="search-query" name="s"/>
+    	</form>
+	<p>
+
+	</p>
 	    
             </div>
           </div>
@@ -131,21 +142,13 @@
     </div>
 
 </main>
-    <footer> <footer class="footer">
-    <div class="container">
-        <div class="content has-text-centered">
-		
-        </div>
-    </div>
-</footer>
- </footer>
+    
 
     
     
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     <script async type="text/javascript" src="/faqs/js/bulma.js"></script>
     <script async type="text/javascript"  src="/faqs/js/clipboard.min.js"></script>
-    <script async type="text/javascript"  src="/faqs/js/clip.js"></script>
+    
 </body>
 
 </html>

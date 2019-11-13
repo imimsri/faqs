@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMIM-SRI FAQs</title>
-    <link>/faqs/en/</link>
+    <link>/en/</link>
     <description>Recent content on IMIM-SRI FAQs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/faqs/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/faqs/en/posts/correu_spam/</link>
+      <link>/en/posts/correu_spam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/en/posts/correu_spam/</guid>
+      <guid>/en/posts/correu_spam/</guid>
       <description> Correu brossa a l&amp;rsquo;IMIM </description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>/faqs/en/search/</link>
+      <link>/en/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/en/search/</guid>
+      <guid>/en/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
