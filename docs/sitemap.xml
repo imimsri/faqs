@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/faqs/posts/correu_spam/</loc>
+  </url>
+  
+  <url>
     <loc>/faqs/categories/</loc>
   </url>
   
   <url>
     <loc>/faqs/</loc>
+  </url>
+  
+  <url>
+    <loc>/faqs/posts/</loc>
   </url>
   
   <url>
