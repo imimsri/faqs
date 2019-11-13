@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/faqs/posts/correu_spam/</loc>
+    <loc>/posts/correu_spam/</loc>
   </url>
   
   <url>
-    <loc>/faqs/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/faqs/ca/categories/"
+                href="/ca/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/faqs/es/categories/"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>/faqs/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/faqs/ca/"
+                href="/ca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/faqs/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>/faqs/posts/</loc>
+    <loc>/posts/</loc>
   </url>
   
   <url>
-    <loc>/faqs/search/</loc>
+    <loc>/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>/faqs/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/faqs/ca/tags/"
+                href="/ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/faqs/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/tags/"
+                href="/tags/"
                 />
   </url>
   

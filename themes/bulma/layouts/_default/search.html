@@ -7,17 +7,34 @@
 <script src="{{ "js/search.js" | absURL }}"></script>
 {{ end }}
 {{ define "main" }}
-<section>
-  <div class="container" >
-	  <h1>IMIM FAQs search</h1>
-    <form action="{{ "search" | relURL }}">
-      <input class="input" id="search-query" name="s"/>
-    </form>
-    <div id="search-results">
-     <h3>Matching pages</h3>
-    </div>
-  </div>
-</section>
+<div class="container">
+	<div class="tile is-ancestor" >
+			<div class="tile is-parent is-4">
+				<article class="tile is-child box">
+				<p class="subtitle">IMIM FAQs search</p>
+				<form class="has-text-centered"  action="{{ "search" | relURL }}">
+					<div class="field has-addons has-addons-centered">
+						<div class="control">
+							<input class="input" id="search-query" name="s" placeholder="{{.Site.Params.search}}"/>
+						</div>
+						<div class="control">
+							<button class="button">
+							<span class="icon">
+								<img src="{{ "svg/search.svg" | relURL }}"/>
+							</span>
+							</button>
+						</div>
+					</div>
+				</form>
+				</article>
+    			</div>
+			<div class="tile is-parent">
+				<article class="tile is-child box" id="search-results">
+					<p class="subtitle">Matching pages</p>
+				</article>
+			</div>
+	</div>
+</div>
 <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
 <script id="search-result-template" type="text/x-js-template">
     <div id="summary-${key}">
