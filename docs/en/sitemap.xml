@@ -117,6 +117,10 @@
   </url>
   
   <url>
+    <loc>/categories/it-resource/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/kubernetes/</loc>
   </url>
   
@@ -136,6 +140,10 @@
                 hreflang="en"
                 href="/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>/posts/external/</loc>
   </url>
   
   <url>
@@ -224,6 +232,10 @@
                 hreflang="en"
                 href="/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/web-services/</loc>
   </url>
   
 </urlset>
