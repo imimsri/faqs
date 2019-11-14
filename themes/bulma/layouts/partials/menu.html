@@ -3,6 +3,11 @@
     <a class="navbar-item" href="{{.Site.BaseURL | relURL}}">
 	    <img src="{{ "img/imim.jpg" | relURL }}" alt="IMIM logo">
     </a>
+      <a class="navbar-item" target="blank" href="{{.Site.BaseURL | relURL}}">
+        <span class="icon">
+		<img src="{{"svg/home.svg"|relURL}}" alt="faqs"/>
+        </span>
+      </a>
     <a class="navbar-burger burger" role="button" data-target="navbarExampleTransparentExample" aria-label="menu" aria-expanded="false">
       <span  aria-hidden="true"></span>
       <span  aria-hidden="true"></span>
@@ -12,11 +17,6 @@
   
   <div class="navbar-menu" id="navbarExampleTransparentExample">
     <div class="navbar-start">
-      <a class="navbar-item" target="blank" href="{{.Site.BaseURL | relURL}}">
-        <span class="icon">
-		<img src="{{"svg/home.svg"|relURL}}" alt="faqs"/>
-        </span>
-      </a>
       {{ if .Site.Params.github}}
       <a class="navbar-item" target="blank" href="https://github.com/{{.Site.Params.github}}">
         <span class="icon">

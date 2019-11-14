@@ -10,9 +10,11 @@
         {{ end }}
     </p>
     <p class="control">
+    	{{ if gt .Paginator.TotalPages 1 }}
         <a class="button">
            Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}
         </a>
+	{{ end }}
     </p>
     <p class="control">
         {{ if .Paginator.HasNext }}

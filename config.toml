@@ -32,7 +32,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
       linkedin = "https://linkedin.com/whoever"
       description = "All about IMIM's IT resources" # Suggested, controls default description meta and landing page
       search = "Question or problem?"
-      index = "Index of FAQs"
+      index = "FAQs index"
   [languages.ca]
     title = "IMIM-SRI FAQs" # Homepage title and page title suffix
     weight = 2
