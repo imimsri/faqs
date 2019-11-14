@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMIM-SRI FAQs</title>
-    <link>/faqs/</link>
+    <link>/</link>
     <description>Recent content on IMIM-SRI FAQs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/faqs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Search Results</title>
-      <link>/faqs/search/</link>
+      <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/search/</guid>
+      <guid>/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -25,19 +25,19 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>SPAM mail policies at IMIM</title>
-      <link>/faqs/posts/spam/</link>
+      <link>/posts/spam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/posts/spam/</guid>
+      <guid>/posts/spam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Status of IMIM IT services</title>
-      <link>/faqs/posts/status/</link>
+      <link>/posts/status/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/posts/status/</guid>
+      <guid>/posts/status/</guid>
       <description></description>
     </item>
     

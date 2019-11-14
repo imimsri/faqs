@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on IMIM-SRI FAQs</title>
-    <link>/faqs/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on IMIM-SRI FAQs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/faqs/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Disaster  recovery</title>
-      <link>/faqs/categories/disaster-recovery/</link>
+      <link>/categories/disaster-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/categories/disaster-recovery/</guid>
+      <guid>/categories/disaster-recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Email</title>
-      <link>/faqs/categories/email/</link>
+      <link>/categories/email/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/categories/email/</guid>
+      <guid>/categories/email/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrastructure</title>
-      <link>/faqs/categories/infrastructure/</link>
+      <link>/categories/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/categories/infrastructure/</guid>
+      <guid>/categories/infrastructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring</title>
-      <link>/faqs/categories/monitoring/</link>
+      <link>/categories/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/categories/monitoring/</guid>
+      <guid>/categories/monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>/faqs/categories/security/</link>
+      <link>/categories/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faqs/categories/security/</guid>
+      <guid>/categories/security/</guid>
       <description></description>
     </item>
     
