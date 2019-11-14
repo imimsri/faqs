@@ -21,7 +21,7 @@
             <h2 class="subtitle is-four-fifths">
               {{ .Site.Params.description}}
             </h2>
-            <br>
+            <br/>
     	<form class="has-text-centered"  action="{{ "search" | relURL }}">
 		<div class="field has-addons has-addons-centered">
 			<div class="control">
@@ -36,9 +36,14 @@
 			</div>
 		</div>
     	</form>
-	<br>
-	<a href="{{"posts"|relURL}}" class="button is-primary">{{.Site.Params.index}}</a>
+	<br/>
+	<p>
+	<a class="button is-primary" href="{{"posts"|relLangURL}}">{{.Site.Params.index}}</a>
+	</p>
+	<p style="margin-top: 20px;">
+		<span class="tag is-small is-info"><a class="has-text-white" href="/">English</a></span> <span class="tag is-small is-info"><a class="has-text-white" href="/ca">Català</a></span> <span class="tag is-info"><a class="has-text-white" href="/es">Español</a></span>
 
+	</p>
 
 	    <!--
             <div class="column  is-offset-1">

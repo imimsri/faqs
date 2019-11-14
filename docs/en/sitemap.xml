@@ -30,15 +30,59 @@
   </url>
   
   <url>
+    <loc>/tags/docker/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/email/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/email/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/email/"
+                />
   </url>
   
   <url>
     <loc>/tags/email/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/email/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/email/"
+                />
   </url>
   
   <url>
     <loc>/tags/error/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/extern/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/extern/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/guideline/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/guidelines/</loc>
   </url>
   
   <url>
@@ -69,11 +113,29 @@
   </url>
   
   <url>
+    <loc>/posts/contractor/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/kubernetes/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/monitoring/</loc>
   </url>
   
   <url>
     <loc>/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
   </url>
   
   <url>
@@ -83,18 +145,62 @@
   
   <url>
     <loc>/categories/security/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/security/"
+                />
   </url>
   
   <url>
     <loc>/tags/security/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/security/"
+                />
   </url>
   
   <url>
     <loc>/tags/spam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/spam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/spam/"
+                />
   </url>
   
   <url>
     <loc>/posts/spam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/spam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/spam/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/specification/</loc>
   </url>
   
   <url>

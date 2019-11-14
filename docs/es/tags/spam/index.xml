@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spam on IMIM-SRI FAQs</title>
+    <link>/es/tags/spam/</link>
+    <description>Recent content in spam on IMIM-SRI FAQs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/es/tags/spam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Políticas antispam del IMIM</title>
+      <link>/es/posts/spam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/posts/spam/</guid>
+      <description>Las políticas antispam del IMIM</description>
+    </item>
+    
+  </channel>
+</rss>

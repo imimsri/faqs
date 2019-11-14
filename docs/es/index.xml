@@ -10,5 +10,14 @@
 	<atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Políticas antispam del IMIM</title>
+      <link>/es/posts/spam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/posts/spam/</guid>
+      <description>Las políticas antispam del IMIM</description>
+    </item>
+    
   </channel>
 </rss>

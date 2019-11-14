@@ -22,6 +22,34 @@
   </url>
   
   <url>
+    <loc>/es/categories/email/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/email/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/email/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/email/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/email/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/email/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/</loc>
     <xhtml:link
                 rel="alternate"
@@ -37,6 +65,76 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/spam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/spam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/spam/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/security/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/security/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/security/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/security/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/spam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/spam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/spam/"
                 />
   </url>
   
