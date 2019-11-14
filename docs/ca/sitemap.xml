@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/faqs/ca/categories/</loc>
+    <loc>/ca/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/faqs/es/categories/"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/faqs/ca/categories/"
+                href="/ca/categories/"
                 />
   </url>
   
   <url>
-    <loc>/faqs/ca/</loc>
+    <loc>/ca/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/faqs/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/faqs/ca/"
+                href="/ca/"
                 />
   </url>
   
   <url>
-    <loc>/faqs/ca/tags/</loc>
+    <loc>/ca/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faqs/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/faqs/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/faqs/ca/tags/"
+                href="/ca/tags/"
                 />
   </url>
   
