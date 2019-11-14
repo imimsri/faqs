@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infrastructure on IMIM-SRI FAQs</title>
-    <link>/categories/infrastructure/</link>
+    <link>/faqs/categories/infrastructure/</link>
     <description>Recent content in Infrastructure on IMIM-SRI FAQs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/categories/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/faqs/categories/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Status of IMIM IT services</title>
-      <link>/posts/status/</link>
+      <link>/faqs/posts/status/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/status/</guid>
+      <guid>/faqs/posts/status/</guid>
       <description></description>
     </item>
     

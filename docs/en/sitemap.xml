@@ -3,100 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/faqs/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/ca/categories/"
+                href="/faqs/ca/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="/faqs/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/faqs/categories/"
                 />
   </url>
   
   <url>
-    <loc>/tags/diagnosis/</loc>
+    <loc>/faqs/tags/diagnosis/</loc>
   </url>
   
   <url>
-    <loc>/categories/disaster-recovery/</loc>
+    <loc>/faqs/categories/disaster-recovery/</loc>
   </url>
   
   <url>
-    <loc>/tags/error/</loc>
+    <loc>/faqs/tags/error/</loc>
   </url>
   
   <url>
-    <loc>/tags/help/</loc>
+    <loc>/faqs/tags/help/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/faqs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/ca/"
+                href="/faqs/ca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="/faqs/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/faqs/"
                 />
   </url>
   
   <url>
-    <loc>/categories/infrastructure/</loc>
+    <loc>/faqs/categories/infrastructure/</loc>
   </url>
   
   <url>
-    <loc>/categories/monitoring/</loc>
+    <loc>/faqs/categories/monitoring/</loc>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/faqs/posts/</loc>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>/faqs/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>/posts/spam/</loc>
+    <loc>/faqs/posts/spam/</loc>
   </url>
   
   <url>
-    <loc>/posts/status/</loc>
+    <loc>/faqs/posts/status/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/faqs/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="/ca/tags/"
+                href="/faqs/ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="/faqs/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/faqs/tags/"
                 />
   </url>
   

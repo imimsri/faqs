@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on IMIM-SRI FAQs</title>
-    <link>/categories/</link>
+    <link>/faqs/categories/</link>
     <description>Recent content in Categories on IMIM-SRI FAQs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/faqs/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Disaster  recovery</title>
-      <link>/categories/disaster-recovery/</link>
+      <link>/faqs/categories/disaster-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/disaster-recovery/</guid>
+      <guid>/faqs/categories/disaster-recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrastructure</title>
-      <link>/categories/infrastructure/</link>
+      <link>/faqs/categories/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/infrastructure/</guid>
+      <guid>/faqs/categories/infrastructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring</title>
-      <link>/categories/monitoring/</link>
+      <link>/faqs/categories/monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/monitoring/</guid>
+      <guid>/faqs/categories/monitoring/</guid>
       <description></description>
     </item>
     
