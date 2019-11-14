@@ -132,6 +132,11 @@
     <loc>/posts/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ca"
+                href="/ca/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="/es/posts/"
                 />
@@ -167,6 +172,11 @@
   
   <url>
     <loc>/tags/security/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/ca/tags/security/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"

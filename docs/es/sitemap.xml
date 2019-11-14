@@ -91,6 +91,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ca"
+                href="/ca/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="/es/posts/"
                 />
@@ -116,6 +121,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="/ca/tags/security/"
                 />
     <xhtml:link
                 rel="alternate"
