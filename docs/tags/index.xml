@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>email</title>
+      <link>/faqs/tags/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faqs/tags/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Error</title>
       <link>/faqs/tags/error/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +43,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/faqs/tags/help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>/faqs/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faqs/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spam</title>
+      <link>/faqs/tags/spam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faqs/tags/spam/</guid>
       <description></description>
     </item>
     

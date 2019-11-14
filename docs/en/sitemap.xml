@@ -30,6 +30,14 @@
   </url>
   
   <url>
+    <loc>/faqs/categories/email/</loc>
+  </url>
+  
+  <url>
+    <loc>/faqs/tags/email/</loc>
+  </url>
+  
+  <url>
     <loc>/faqs/tags/error/</loc>
   </url>
   
@@ -71,6 +79,18 @@
   <url>
     <loc>/faqs/search/</loc>
     <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>/faqs/categories/security/</loc>
+  </url>
+  
+  <url>
+    <loc>/faqs/tags/security/</loc>
+  </url>
+  
+  <url>
+    <loc>/faqs/tags/spam/</loc>
   </url>
   
   <url>

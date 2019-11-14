@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Email</title>
+      <link>/faqs/categories/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faqs/categories/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Infrastructure</title>
       <link>/faqs/categories/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +43,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/faqs/categories/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>/faqs/categories/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faqs/categories/security/</guid>
       <description></description>
     </item>
     
