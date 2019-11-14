@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/contractor/</guid>
-      <description> External Computer Applications Requirements  All external contractor applications should be able to run under a Linux based Kubernetes cluster. Contractor must be able to setup and update an inhouse git repository https://git.imim.cat with all needed Kubernetes deployment files  Usefull links Container technologies  Docker: https://www.docker.com/ Kubernetes: https://kubernetes.io/  Hardware </description>
+      <description>External Computer Applications Requirements  All external contractor applications should be able to run under a Linux based Kubernetes cluster. Contractor must be able to setup and update an inhouse git repository https://git.imim.cat with all needed Kubernetes deployment files Contractor must supply CI (continuous integration tests) to validate application releases IMIM will assign contractor a Kubernetes namespace per aplication. Application updates will be carried out through CI (continuous integration) workflow.</description>
     </item>
     
     <item>
